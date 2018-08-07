@@ -20,6 +20,7 @@
     "electron": "^2.0.0"
   },
   "dependencies": {
+    "google-scraper": "^1.1.2",
     "google-search-scraper": "^0.1.0"
   }
 }
